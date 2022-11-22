@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="automationweb-test" />
+        <module name="fundingsocieties_auto_testing_web" />
       </profile>
     </annotationProcessing>
   </component>
