@@ -16,7 +16,7 @@ public class ConvertUtil {
     private ConvertUtil() {
     }
 
-    public static Map<Object, Object> convertJsonFileToMap(String filePath) {
+    public static Map <Object, Object>convertJsonFileToMap(String filePath) {
         LOGGER.info("File path >>>> " + filePath + "\n");
 
         try {

@@ -1,0 +1,15 @@
+{
+  "\n                General\n            ": {
+    "totalApproved": "Total approved",
+    "amountDisbursed": "Amount disbursed",
+    "defaultRate": "Default rate",
+  },
+  "\n                Repayment\n            ": {
+    "total": "Total (million SGD)",
+    "principal": "Principal (million SGD)",
+    "interest": "Interest (million SGD)"
+  },
+  "\n                Disbursement\n            ": {
+
+  }
+}

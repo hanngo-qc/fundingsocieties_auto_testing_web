@@ -5,7 +5,7 @@
     </listeners>
     <test name="Automation Web Test">
         <classes>
-            <class name="com.fundingsocieties.fundingsocietiestest.BaseTest">
+            <class name="com.fundingsocieties.fundingsocietiestest.ProgressPageTest">
             </class>
         </classes>
     </test>
